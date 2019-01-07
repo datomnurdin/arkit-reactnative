@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { AugmentPlayerSDK } from 'react-native-augment';
-import RootStack from './src/RootStack';
+import { RootStack } from './src/RootStack';
 
 // Demo credentials, please replace with yours
 AugmentPlayerSDK.init({
